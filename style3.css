@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: #b784db;
+}
+.tiga{
+    background: white;
+    width: auto;
+    height: auto;
+    justify-content: center;
+}
+.hayoo{
+    width: 250px;
+    height: 250px;
+}

@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: #b784db;
+}
+.third{
+    background: white;
+    width: auto;
+    height: auto;
+    justify-content: center;
+}
+.dua{
+    height: 250px;
+    width: 300px;
+}
